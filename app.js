@@ -1,5 +1,5 @@
 let listaDeNumeroSorteados = [];
-mudancaDeTitulo("h1", 'Jogo do numero Secreto');
+mudancaDeTitulo("h1", 'Jogo do numero Secretos');
 let numeroAleatorio ;
 RetornarChute();
 console.log(numeroAleatorio);
