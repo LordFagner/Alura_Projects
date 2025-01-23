@@ -4,7 +4,7 @@ let numeroAleatorio ;
 RetornarChute();
 console.log(numeroAleatorio);
 mudancaDeTitulo("p", "escolha o seu palpite");
-let tentativas = 1
+let tentativas = 3
 
 function mudancaDeTitulo(campo, texto) {
     let texts = document.querySelector(campo);
